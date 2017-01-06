@@ -1,0 +1,7 @@
+[package]
+name = "quantie"
+version = "0.1.0"
+authors = ["Amber Zhang <caretcaret@gmail.com>"]
+
+[dependencies]
+rand = "0.3.15"
